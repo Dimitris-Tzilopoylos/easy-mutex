@@ -1,5 +1,5 @@
 {
-  "name": "easy-mutex",
+  "name": "easy-mtx",
   "version": "1.0.0",
   "description": "Mutex and Mutex Pool",
   "main": "dist/index.js",
