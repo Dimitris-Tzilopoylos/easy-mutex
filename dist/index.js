@@ -1,6 +1,8 @@
-var Mutex = require("./lib/mutex");
-var Pool = require("./lib/pool");
+"use strict";
+
+const Mutex = require("./lib/mutex");
+const Pool = require("./lib/pool");
 module.exports = {
-    Mutex: Mutex,
-    Pool: Pool,
+  Mutex,
+  Pool
 };
